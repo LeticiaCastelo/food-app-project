@@ -6,7 +6,7 @@ restaurantes = [{'nome':'LifeBox', 'categoria':'Hamburgueria','ativo':False},
                 ]
 
 def exibir_nome_do_programa():
-    '''Função exibe nome  estilizado do programa copiado com uma fonte diferente do site 'fsymbols' '''
+    '''Função exibe nome  estilizado do programa, copiado com uma fonte diferente do site 'fsymbols' '''
     print("""
 ─────────────────────────────────────────────────────────────────────────────────────────────────────
 ─██████████████─██████████████───────────██████████████─██████████████─██████████████─████████████───
